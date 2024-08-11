@@ -1,0 +1,165 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 120px;
+    background-color: rgba(5, 5, 5, 0.85);
+    position: fixed;
+    width: -webkit-fill-available;
+
+
+}
+
+
+.section {
+    height: 100vh;
+    background-image: url(fundobarbaria2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+
+
+}
+
+body {
+    height: 100vh;
+}
+
+.menu {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+
+}
+
+.paragrafomenu {
+    color: white;
+    font-size: 25px;
+}
+
+.paragrafomenu:hover {
+    transform: scale(1.1);
+    transition: 300ms ease;
+    color: yellow;
+    cursor: pointer;
+}
+
+header i {
+    color: white;
+    font-size: 28px;
+}
+
+.servicos {
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-left: 130px;
+}
+
+
+
+.menucortes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: 215px;
+
+}
+
+.menucortes p {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+
+}
+
+.opcoescortes {
+    gap: 20px;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+
+}
+
+.nossoscortes {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.nossos h2 {
+    color: white;
+    font-size: 55px;
+}
+
+
+.serv h2 {
+    color: yellow;
+    font-size: 55px;
+}
+
+.section2 {
+    display: flex;
+    background-image: url(fundobarbearia.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.fotoscortes {
+    display: flex;
+    flex-direction: column;
+    gap: 80px;
+}
+
+.fotos {
+    display: flex;
+    flex-direction: row;
+    gap: 80px;
+}
+
+
+.fotos img {
+    width: 215px;
+    height: 270px;
+    border: solid 3px white;
+    border-radius: 10px;
+
+}
+
+.fotos img:hover {
+    transform: scale(1.1);
+    transition: ease 300ms;
+    cursor: pointer;
+    box-shadow: 3px 3px 16px #fff;
+}
+
+#tesoura {
+    color: white;
+    font-size: 28px;
+
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    align-items: center;
+    padding-right: 235px;
+}
+
+.plogo {
+    color: white;
+    font-weight: bold;
+    font-size: 25px;
+}
