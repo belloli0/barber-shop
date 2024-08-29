@@ -50,6 +50,8 @@ body {
     transition: 300ms ease;
     color: yellow;
     cursor: pointer;
+    background-color: transparent;
+    border: none;
 }
 
 header i {
