@@ -43,6 +43,8 @@ body {
 .paragrafomenu {
     color: white;
     font-size: 25px;
+    background-color: transparent;
+    border: none;
 }
 
 .paragrafomenu:hover {
@@ -50,8 +52,7 @@ body {
     transition: 300ms ease;
     color: yellow;
     cursor: pointer;
-    background-color: transparent;
-    border: none;
+    
 }
 
 header i {
