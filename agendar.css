@@ -7,11 +7,19 @@ body {
 }
 
 .conteudo {
-
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
-
+.topicos {
+    font-size: 14px;
+    color: yellow;
+}
+.nome {
+}
 .logo {
-
+    height: 195px;
 }
 
 .barbeiro {
@@ -19,5 +27,5 @@ body {
 }
 
 .servicos {
-    
+
 }
