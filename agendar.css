@@ -31,13 +31,18 @@ body {
 
 .barbeiro {
     padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .servicos {
 display: flex;
-    border-radius: 10px;
+border-radius: 10px;
 flex-direction: column;
 gap: 10px;
+justify-content: center;
+align-items: center;
 }
 
 .opcoes {
