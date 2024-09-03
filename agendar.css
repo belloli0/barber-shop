@@ -36,13 +36,12 @@ body {
 .servicos {
 display: flex;form {
     border-radius: 10px;
-}
 flex-direction: column;
 gap: 10px;
 }
 
 .opcoes {
-    height: 80px ;
+    height: 70px ;
     width: 320px;
     border: solid 2px orange;
     background-color: #f0f09d;
