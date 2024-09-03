@@ -14,6 +14,8 @@ body {
 }
 .topicos {
     color: yellow;
+    font-weight: bold;
+    font-size: 20px;
 }
 .nome {
     color: white;
@@ -36,13 +38,17 @@ body {
 }
 
 #barbeiros {
-    width: 200px;
-    height: 30px;
+    width: 250px;
+    height: 40px;
     background-color: rgb(255, 166, 0);
     border: none;
 }
 
 option {
     font-weight: bold;
-    
+    font-size: 22px;
+}
+
+form {
+    border-radius: 10px;
 }
