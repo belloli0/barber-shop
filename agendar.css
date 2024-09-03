@@ -34,7 +34,7 @@ body {
 }
 
 .servicos {
-display: flex;form {
+display: flex;
     border-radius: 10px;
 flex-direction: column;
 gap: 10px;
