@@ -42,14 +42,15 @@ gap: 10px;
 }
 
 .opcoes {
-    height: 120px ;
-    width: 250px;
+    height: 80px ;
+    width: 320px;
     border: solid 2px orange;
     background-color: #f0f09d;
+    border-radius: 10px;
 }
 
 #barbeiros {
-    width: 250px;
+    width: 320px;
     height: 40px;
     background-color: rgb(255, 166, 0);
     border: none;
