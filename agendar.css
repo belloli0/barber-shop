@@ -53,9 +53,6 @@ padding: 15px;
     border: solid 3px orange;
     background-color: #f0f09d;
     border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
 }
 
 #barbeiros {
@@ -80,4 +77,12 @@ option {
 
 .descoption {
     color: gray;
+}
+
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
