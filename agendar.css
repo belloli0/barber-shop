@@ -96,12 +96,11 @@ option {
 .input {
     display: flex;
     align-items: center;
+    gap: 5px;
 }
 
 .inputcheck {
-    background-color: yellow;
-    border: 2px solid orange;
     height: 18px;
     width: 18px;
-    border-radius: 8px;
+    margin: 5px;
 }
