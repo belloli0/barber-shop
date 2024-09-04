@@ -97,3 +97,11 @@ option {
     display: flex;
     align-items: center;
 }
+
+.inputcheck {
+    background-color: yellow;
+    border: 2px solid orange;
+    height: 18px;
+    width: 18px;
+    border-radius: 8px;
+}
