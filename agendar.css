@@ -54,7 +54,7 @@ padding: 15px;
     background-color: #f0f09d;
     border-radius: 10px;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     gap: 3px;
 }
 
@@ -76,10 +76,12 @@ option {
 .paragrafooption {
     font-size: 20px;
     font-weight: bold;
+    margin: 0;
 }
 
 .descoption {
     color: gray;
+    margin: 0;
 }
 
 
