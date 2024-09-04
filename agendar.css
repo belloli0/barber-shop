@@ -98,11 +98,10 @@ option {
     align-items: center;
 }
 
-#check {
+input[type="checkbox"] {
     margin: 8px;
     height: 15px;
     width: 15px;
     border: solid 2px orange;
     border-radius: 10px;
-    accent-color: yellow;
 }
