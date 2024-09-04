@@ -50,9 +50,12 @@ padding: 15px;
 .opcoes {
     height: 70px ;
     width: 320px;
-    border: solid 2px orange;
+    border: solid 3px orange;
     background-color: #f0f09d;
     border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
 }
 
 #barbeiros {
@@ -70,3 +73,11 @@ option {
     font-size: 20px;
 }
 
+.paragrafooption {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.descoption {
+    color: gray;
+}
