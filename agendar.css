@@ -53,6 +53,9 @@ padding: 15px;
     border: solid 3px orange;
     background-color: #f0f09d;
     border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    gap: 3px;
 }
 
 #barbeiros {
