@@ -104,7 +104,3 @@ option {
     width: 18px;
     margin: 5px;
 }
-
-.inputcheck:checked {
-    background-color: yellow;
-}
