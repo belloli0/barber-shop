@@ -160,6 +160,9 @@ header i {
     align-items: center;
     padding-right: 235px;
 }
+.logo img {
+    height: 100px;
+}
 
 .plogo {
     color: white;
