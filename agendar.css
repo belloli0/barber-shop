@@ -179,8 +179,8 @@ input[type="checkbox"] {
   .buttonconfirm:hover {
     background-color: orange;
     border: none;
-    transform: scale(1.1);
-    transition: transform 300ms;
+    transform: scale(1.05);
+    transition: transform 400ms ease-in-out;
     cursor: pointer;
   }
   
