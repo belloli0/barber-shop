@@ -109,6 +109,7 @@ input[type="checkbox"] {
     background-color: #fff;
     border: 0.125rem solid #ccc;
     border-radius: 0.25rem;
+    cursor: pointer;
   }
   
   /* Características do marcador */
