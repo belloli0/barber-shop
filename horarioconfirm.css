@@ -14,7 +14,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 30px;
+    gap: 150px;
     background-color: white;
 }
 
@@ -28,7 +28,7 @@ font-weight: bold;
 }
 
 .container img {
-    height: 250px;
+    height: 220px;
 }
 
 button {
