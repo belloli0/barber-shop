@@ -181,5 +181,6 @@ input[type="checkbox"] {
     border: none;
     transform: scale(1.1);
     transition: transform 300ms;
+    cursor: pointer;
   }
   
