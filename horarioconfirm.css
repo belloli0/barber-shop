@@ -14,17 +14,17 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    gap: 50px;
+    gap: 30px;
     background-color: white;
 }
 
 .p1 {
-font-size: 26px;
+font-size: 50px;
 font-weight: bold;
 }
 
 .p2 {
-    font-size: 18px;
+    font-size: 30px;
 }
 
 .container img {
@@ -32,7 +32,7 @@ font-weight: bold;
 }
 
 button {
-    height: 50px;
+    height: 350px;
     width: 80px;
     background-color: purple;
     cursor: pointer;
