@@ -5,3 +5,27 @@ body {
     align-items: center;
     background-color: black;
 }
+
+.container {
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.p1 {
+font-size: 26px;
+font-weight: bold;
+}
+
+.p2 {
+    font-size: 18px;
+}
+
+.container img {
+    height: 80px;
+}
