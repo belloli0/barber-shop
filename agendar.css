@@ -133,8 +133,8 @@ input[type="checkbox"] {
   
   /* Cor da caixa para o marcador */
   input[type="checkbox"]:checked {
-    background-color: #e0138c;
-    border-color: #e0138c;
+    background-color: orange;
+    border-color: orange;
   }
   
   /* Características do marcador quando selecionado */
@@ -148,9 +148,9 @@ input[type="checkbox"] {
   }
   
   input[type="checkbox"]:focus {
-    border-color: #e0138c;
+    border-color: orange;
   }
   
   input[type="checkbox"]:focus + label {
-    color: #e0138c;
+    color: orange;
   }
