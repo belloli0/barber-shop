@@ -157,3 +157,21 @@ input[type="checkbox"] {
   input[type="checkbox"]:focus + label {
     color: orange;
   }
+
+  .confirmarhorario {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+
+  .buttonconfirm {
+    background-color: transparent;
+    border-radius: 12px;
+    border: 2px solid orange;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    height: 80px;
+    width: 200px;
+  }
