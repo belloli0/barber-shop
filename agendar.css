@@ -23,7 +23,7 @@ body {
 
 .logo {
     padding: 10px;
-    margin-top: 400px;
+    margin-top: 45b0px;
 
 }
 .logo img {
@@ -162,7 +162,7 @@ input[type="checkbox"] {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 30px;
   }
 
   .buttonconfirm {
@@ -175,3 +175,11 @@ input[type="checkbox"] {
     height: 80px;
     width: 200px;
   }
+
+  .buttonconfirm :hover {
+    background-color: orange;
+    border: none;
+    transform: scale(1.1);
+    transition: transform 300ms;
+  }
+  
