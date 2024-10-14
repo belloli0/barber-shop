@@ -42,7 +42,7 @@ body {
 
 .paragrafomenu {
     color: white;
-    font-size: 25px;
+    font-size: 22px;
     background-color: transparent;
     border: none;
 }
@@ -158,7 +158,7 @@ header i {
     flex-direction: row;
     gap: 20px;
     align-items: center;
-    padding-right: 235px;
+    padding-right: 190px;
 }
 .logo img {
     height: 100px;
