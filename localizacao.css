@@ -35,6 +35,7 @@ body {
     color: blue;
     border: blue solid 2px;
     font: bold;
+    font-size: 18px;
 }
 .voltar:hover {
     transition: transform 300ms ease-in-out;
