@@ -34,6 +34,8 @@ body {
     cursor: pointer;
     color: blue;
     border: blue;
+    font: bold;
+    font-size: 20px;
 }
 .voltar:hover {
     transition: transform 300ms ease-in-out;
