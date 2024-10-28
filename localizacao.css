@@ -27,15 +27,14 @@ body {
 
 .voltar {
     margin-left: 500px;
-    height: 40px;
-    width: 140px;
+    height: 50px;
+    width: 160px;
     background-color: transparent;
     border-radius: 10px;
     cursor: pointer;
     color: blue;
     border: blue solid 2px;
     font: bold;
-    font-size: 20px;
 }
 .voltar:hover {
     transition: transform 300ms ease-in-out;
